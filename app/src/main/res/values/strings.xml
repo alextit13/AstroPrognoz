@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AstroPrognoz</string>
+    <string name="lbl_start">Start</string>
+    <string name="lbl_do_not_show">Не показывать в следующий раз</string>
+    <string name="lbl_next">Далее</string>
+    <string name="hint_name_surname">Имя Фамилия</string>
+    <string name="lbl_select_date">Выберите дату рождения</string>
+    <string name="lbl_select_time">Выберите время рождения</string>
+    <string name="lbl_incorrect_time">Время указано неточно</string>
+    <string name="lbl_country">Страна</string>
+    <string name="lbl_region">Область</string>
+    <string name="lbl_city">Город</string>
+</resources>
